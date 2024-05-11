@@ -1,5 +1,11 @@
 # Build a Virtual Network
 
+## Project Description
+
+Over the past few months, I have learned about networking terminology, protocols, and concepts. However, I have not had much practical hands-on experience with networking. To gain more hands-on networking skills, I will be documenting my progress in building a hotel network in Cisco Packet Tracer.  
+
+Thanks to [Bernard Otom](https://www.youtube.com/@benardotom) for providing the project and walkthrough on his YouTube channel.
+
 **Table of Contents**
 
 - [Build a Virtual Network](#build-a-virtual-network)
@@ -34,12 +40,6 @@
          - [Testing SSH with Test-PC in the IT Department](#testing-ssh-with-test-pc-in-the-it-department)
       + [Port Security](#port-security)
    * [Conclusion](#conclusion)
-
-## Project Description
-
-Over the past few months, I have learned about networking terminology, protocols, and concepts. However, I have not had much practical hands-on experience with networking. To gain more hands-on networking skills, I will be documenting my progress in building a hotel network in Cisco Packet Tracer.  
-
-Thanks to [Bernard Otom](https://www.youtube.com/@benardotom) for providing the project and walkthrough on his YouTube channel.
 
 ### Network Requirements
 
