@@ -1,5 +1,40 @@
 # Build a Virtual Network
 
+**Table of Contents**
+
+- [Build a Virtual Network](#build-a-virtual-network)
+   * [Project Description](#project-description)
+      + [Network Requirements](#network-requirements)
+   * [Design](#design)
+      + [Routers](#routers)
+      + [Switches, Wi-fi, PCs, and Printers](#switches-wi-fi-pcs-and-printers)
+      + [VLANs and Organization](#vlans-and-organization)
+   * [Configuration](#configuration)
+      + [Routers and Switches: Hostnames](#routers-and-switches-hostnames)
+      + [Routers: Initial Config](#routers-initial-config)
+         - [F3-Router: Initial Config](#f3-router-initial-config)
+      + [Switches: Initial Config](#switches-initial-config)
+         - [F1-Switch: Initial Config](#f1-switch-initial-config)
+      + [Routers: Inter-VLAN Routing ](#routers-inter-vlan-routing)
+         - [F1-Router: Inter-VLAN Routing Config](#f1-router-inter-vlan-routing-config)
+      + [Routers: DHCP](#routers-dhcp)
+         - [F1-Router: DHCP Config](#f1-router-dhcp-config)
+         - [Testing DHCP](#testing-dhcp)
+         - [DHCP on Printers](#dhcp-on-printers)
+         - [Side Note](#side-note)
+         - [Testing VLAN Connections](#testing-vlan-connections)
+         - [Speeding Up Configuration](#speeding-up-configuration)
+      + [Routers: OSPF](#routers-ospf)
+         - [F1-Router: OSPF Config](#f1-router-ospf-config)
+         - [OSPF Testing](#ospf-testing)
+      + [Wireless Configuration](#wireless-configuration)
+         - [Testing Wireless Connectivity](#testing-wireless-connectivity)
+      + [Routers: SSH](#routers-ssh)
+         - [F1-Router: SSH Config](#f1-router-ssh-config)
+         - [Testing SSH with Test-PC in the IT Department](#testing-ssh-with-test-pc-in-the-it-department)
+      + [Port Security](#port-security)
+   * [Conclusion](#conclusion)
+
 ## Project Description
 
 Over the past few months, I have learned about networking terminology, protocols, and concepts. However, I have not had much practical hands-on experience with networking. To gain more hands-on networking skills, I will be documenting my progress in building a hotel network in Cisco Packet Tracer.  
