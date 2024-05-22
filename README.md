@@ -6,7 +6,7 @@ Over the past few months, I have learned about networking terminology, protocols
 
 Thanks to [Bernard Otom](https://www.youtube.com/@benardotom) for providing the project and walkthrough on his YouTube channel.
 
-**Table of Contents**
+## Table of Contents
 
 - [Build a Virtual Network](#build-a-virtual-network)
    * [Project Description](#project-description)
