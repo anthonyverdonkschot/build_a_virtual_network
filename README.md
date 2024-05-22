@@ -10,7 +10,7 @@ Thanks to [Bernard Otom](https://www.youtube.com/@benardotom) for providing the 
 
 - [Build a Virtual Network](#build-a-virtual-network)
    * [Project Description](#project-description)
-      + [Network Requirements](#network-requirements)
+   * [Network Requirements](#network-requirements)
    * [Design](#design)
       + [Routers](#routers)
       + [Switches, Wi-fi, PCs, and Printers](#switches-wi-fi-pcs-and-printers)
@@ -41,7 +41,7 @@ Thanks to [Bernard Otom](https://www.youtube.com/@benardotom) for providing the 
       + [Port Security](#port-security)
    * [Conclusion](#conclusion)
 
-### Network Requirements
+## Network Requirements
 
 The hotel has three floors with various departments:
 
